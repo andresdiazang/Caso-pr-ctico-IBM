@@ -1,2 +1,2 @@
-# Caso-pr-ctico-IBM
+# Caso-practico-IBM
 Caso práctico final
