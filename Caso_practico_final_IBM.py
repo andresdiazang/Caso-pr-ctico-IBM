@@ -9,7 +9,7 @@ def generar_matriz(N):
         for _ in range(N):
             fila.append(random.randint(0,9))
         matriz.append(fila)
-        return matriz
+    return matriz
     
 #Imprimiendo la matriz en la pantalla.
 
